@@ -94,7 +94,7 @@ export const projects = [
     title: "Sudoku Solver",
     des: "A DSA-focused project solving Sudoku puzzles using backtracking algorithm.",
     img: "/a3.png", // Replace with your actual image
-    iconLists: ["/js.svg", "/dsa.svg", "/algo.svg"], // You can customize icons
+    iconLists: ["/html.svg", "/css.svg", "/javascript.svg"], // You can customize icons
     link: "https://rahul87sharma.github.io/Sudoku-Solver/", // Optional GitHub repo or live demo
   },
   {
@@ -102,7 +102,7 @@ export const projects = [
     title: "Notes App",
     des: "A simple and effective note-taking app built with vanilla HTML, CSS, and JavaScript.",
     img: "/a4.png", // Replace with your actual image
-    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/javascript.svg"],
     link: "https://rahul87sharma.github.io/My-Notes/", // Add actual deployment or repo link
   },
 ];
