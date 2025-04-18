@@ -5,14 +5,14 @@ import React from "react";
 const technologies = [
   "MongoDB",
   "React",
-  "Node",
+  "NodeJs",
   "Express",
-  "Next",
+  "NextJs",
   "JavaScript",
-  "Tailwind-CSS",
+  "Tailwind CSS",
   "Shadcn",
   "Framer Motion",
-  "C++",
+  "CPP",
 ];
 
 const TechStack = () => {
