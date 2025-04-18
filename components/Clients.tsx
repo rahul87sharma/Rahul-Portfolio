@@ -9,7 +9,7 @@ const technologies = [
   "Express",
   "NextJs",
   "JavaScript",
-  "Tailwind CSS",
+  "Tailwind",
   "Shadcn",
   "Framer Motion",
   "CPP",
